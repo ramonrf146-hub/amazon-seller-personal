@@ -1,0 +1,16 @@
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos temporales / borradores
+*.tmp
+*.bak
+~$*
+
+# Cosas sensibles que nunca deberían commitearse
+*.env
+.env.*
+credenciales*
+*password*
+*token*
